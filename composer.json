@@ -1,0 +1,13 @@
+{
+    "name": "roygoldman/composer-reinstall",
+    "description": "Reinstall command for composer.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rich Gerdes",
+            "email": "rich@richgerdes.com"
+        }
+    ],
+    "require": {}
+}
