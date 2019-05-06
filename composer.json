@@ -9,5 +9,16 @@
             "email": "rich@richgerdes.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "RoyGoldman\\ComposerReinstall\\": "src/"
+        },
+    },
+    "extra": {
+        "class": "RoyGoldman\\ComposerReinstall\\Plugin"
+    },
+    "require": {
+        "composer-plugin-api": "^1.0.0"
+    },
     "require": {}
 }
